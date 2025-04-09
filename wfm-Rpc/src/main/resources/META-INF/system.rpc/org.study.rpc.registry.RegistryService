@@ -1,0 +1,2 @@
+redis=org.study.rpc.registry.RedisRegistry
+zookeeper=org.study.rpc.registry.ZookeeperRegistry
